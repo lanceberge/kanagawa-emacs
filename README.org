@@ -4,7 +4,7 @@
 
 Kanagawa for Emacs is a port of the elegant [[https://github.com/rebelot/kanagawa.nvim][kanagawa.nvim]], developed by [[https://github.com/rebelot][Tommaso Laurenzi]].
 
-Kanagawa now has three variants: =wave= (default), =dragon=, and =lotus=.
+Kanagawa now has four variants: =wave= (default), =dragon=, =lotus=, and =paper=.
 
 Kanagawa for Emacs supports officially Emacs 24+.
 
@@ -22,7 +22,7 @@ Download [[https://github.com/Fabiokleis/kanagawa-emacs][kanagawa-emacs]] to the
 
 Now you can load the theme with the interactive function =load-theme= like this:
 
-=M-x load-theme RET kanagawa-wave= (or =kanagawa-dragon=, =kanagawa-lotus=)
+=M-x load-theme RET kanagawa-wave= (or =kanagawa-dragon=, =kanagawa-lotus=, =kanagawa-paper=)
 
 *** Package.el
 
